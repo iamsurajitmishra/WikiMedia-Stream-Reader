@@ -1,0 +1,17 @@
+# IDE and OS specific files
+.idea/
+.DS_Store*
+target/
+build/
+
+# Dependency management tools
+*.iml
+*. المحتوى غير مرئي (hidden IntelliJ IDEA files on macOS)
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Application-specific settings (adjust as needed)
+#application.properties
+# You can add other application-specific configuration files here
